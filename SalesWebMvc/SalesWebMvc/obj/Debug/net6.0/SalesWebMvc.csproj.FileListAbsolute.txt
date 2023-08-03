@@ -237,7 +237,6 @@ C:\Projetos .net\SalesWeb\SalesWebMvc\SalesWebMvc\bin\Debug\net6.0\Microsoft.Ide
 C:\Projetos .net\SalesWeb\SalesWebMvc\SalesWebMvc\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
 C:\Projetos .net\SalesWeb\SalesWebMvc\SalesWebMvc\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\Projetos .net\SalesWeb\SalesWebMvc\SalesWebMvc\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
-C:\Projetos .net\SalesWeb\SalesWebMvc\SalesWebMvc\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
 C:\Projetos .net\SalesWeb\SalesWebMvc\SalesWebMvc\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
 C:\Projetos .net\SalesWeb\SalesWebMvc\SalesWebMvc\bin\Debug\net6.0\System.Runtime.Caching.dll
 C:\Projetos .net\SalesWeb\SalesWebMvc\SalesWebMvc\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
@@ -247,3 +246,19 @@ C:\Projetos .net\SalesWeb\SalesWebMvc\SalesWebMvc\bin\Debug\net6.0\runtimes\win-
 C:\Projetos .net\SalesWeb\SalesWebMvc\SalesWebMvc\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
 C:\Projetos .net\SalesWeb\SalesWebMvc\SalesWebMvc\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
 C:\Projetos .net\SalesWeb\SalesWebMvc\SalesWebMvc\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Projetos .net\SalesWeb\SalesWebMvc\SalesWebMvc\bin\Debug\net6.0\libman.json
+C:\Projetos .net\SalesWeb\SalesWebMvc\SalesWebMvc\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Projetos .net\SalesWeb\SalesWebMvc\SalesWebMvc\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Projetos .net\SalesWeb\SalesWebMvc\SalesWebMvc\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Projetos .net\SalesWeb\SalesWebMvc\SalesWebMvc\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Projetos .net\SalesWeb\SalesWebMvc\SalesWebMvc\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Projetos .net\SalesWeb\SalesWebMvc\SalesWebMvc\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Projetos .net\SalesWeb\SalesWebMvc\SalesWebMvc\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Projetos .net\SalesWeb\SalesWebMvc\SalesWebMvc\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Projetos .net\SalesWeb\SalesWebMvc\SalesWebMvc\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Projetos .net\SalesWeb\SalesWebMvc\SalesWebMvc\bin\Debug\net6.0\MySqlConnector.dll
+C:\Projetos .net\SalesWeb\SalesWebMvc\SalesWebMvc\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Projetos .net\SalesWeb\SalesWebMvc\SalesWebMvc\bin\Debug\net6.0\System.CodeDom.dll
+C:\Projetos .net\SalesWeb\SalesWebMvc\SalesWebMvc\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Projetos .net\SalesWeb\SalesWebMvc\SalesWebMvc\bin\Debug\net6.0\System.Text.Json.dll
+C:\Projetos .net\SalesWeb\SalesWebMvc\SalesWebMvc\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
